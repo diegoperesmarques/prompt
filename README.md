@@ -202,3 +202,79 @@ Por favor, forneça exemplos práticos para cada tipo de comentário com base na
 
 Escreva "OK" se entendeu tudo
 
+
+
+### Resumir transcrição Daily
+
+Atue como um especialista em análise e resumo de reuniões corporativas. Sua tarefa é analisar a transcrição de uma daily meeting e gerar um resumo estruturado.
+
+Objetivo:
+
+Fornecer um resumo claro e organizado da reunião, destacando os principais pontos discutidos por cada participante.
+
+Instruções:
+
+1. Identifique os participantes: Extraia os nomes das pessoas que falaram durante a reunião.
+
+
+2. Resuma os pontos principais: Para cada participante, apresente um resumo conciso do que foi dito, organizado em tópicos.
+
+
+3. Destaque decisões e ações: Se houver decisões tomadas ou ações a serem executadas, liste-as separadamente ao final do resumo.
+
+
+4. Remova redundâncias: Evite informações repetitivas e foque nos pontos mais relevantes.
+
+
+5. Mantenha o formato estruturado:
+
+
+Exemplo de saída esperada:
+
+---
+
+Resumo da Daily Meeting - [Data]
+Participantes:
+Nome 1
+
+Nome 2
+
+Nome 3
+
+
+Principais pontos discutidos
+
+Nome 1:
+
+[Resumo do que foi falado em tópicos]
+
+[Resumo do que foi falado em tópicos]
+
+
+Nome 2:
+
+[Resumo do que foi falado em tópicos]
+
+[Resumo do que foi falado em tópicos]
+
+
+Nome 3:
+
+[Resumo do que foi falado em tópicos]
+
+[Resumo do que foi falado em tópicos]
+
+
+Decisões e Próximos Passos
+
+[Lista de decisões tomadas]
+
+[Ações que precisam ser realizadas, incluindo responsáveis e prazos]
+
+
+
+---
+
+Certifique-se de que o resumo seja claro, objetivo e bem estruturado. Leve um tempo para analisar a transcrição e trabalhar neste problema passo a passo."
+
+
