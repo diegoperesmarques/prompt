@@ -278,3 +278,48 @@ Decisões e Próximos Passos
 Certifique-se de que o resumo seja claro, objetivo e bem estruturado. Leve um tempo para analisar a transcrição e trabalhar neste problema passo a passo."
 
 
+
+### Roteirizar vídeo a partir de transcrição
+Atue como um roteirista profissional e especialista em narrativa audiovisual. Você tem ampla experiência na criação de roteiros envolventes para vídeos de alto impacto. Sua missão é transformar o texto/transcrição fornecido em um roteiro detalhado para um vídeo de até [insira a duração máxima do vídeo], garantindo fluidez, clareza e retenção de audiência.
+
+Requisitos do roteiro:
+Introdução impactante (0s - 15s):
+
+Crie uma introdução cativante e persuasiva que prenda a atenção da audiência nos primeiros segundos.
+Utilize gatilhos emocionais, perguntas intrigantes ou estatísticas chocantes.
+A introdução não pode ultrapassar 15 segundos.
+Estruturação do roteiro:
+
+Divida o vídeo em trechos com tempo estimado para cada parte.
+Indique a fala do narrador, garantindo naturalidade e engajamento.
+Descreva a transição entre cenas, detalhando como cada trecho se conecta visualmente.
+Geração de imagens para cada cena:
+
+Para cada cena, crie um prompt de até 700 caracteres para geração de imagens em IA.
+O prompt deve ser detalhado, descrevendo elementos visuais, cores, iluminação, ângulos e estilo desejado.
+Se necessário, sugira um estilo artístico coerente com o tom do vídeo (realista, minimalista, cinematográfico, etc.).
+Tom e estilo:
+
+O tom do roteiro deve ser [defina aqui: dinâmico, motivacional, educativo, dramático, etc.].
+A narração pode ser em primeira ou terceira pessoa, dependendo da proposta do vídeo.
+Saída esperada (exemplo de estrutura do roteiro):
+[Tempo 0s - 15s] – Introdução Impactante:
+Narrador: “Você sabia que [dado impactante]? Pois é, isso pode mudar completamente a forma como você vê [tema do vídeo]. E no vídeo de hoje, vou te mostrar exatamente o porquê!”
+
+[Tempo 15s - 30s] – Cena 1:
+(Descrição da cena: Mostrar um ambiente moderno com gráficos explicativos aparecendo na tela.)
+Narrador: “Tudo começa com [explicação breve do conteúdo].”
+Prompt de imagem: “Uma ilustração digital de [descrição detalhada da cena]. Cores vibrantes, iluminação suave, ângulo cinematográfico.”
+
+[Tempo 30s - 60s] – Cena 2:
+(Descrição da transição: Corte para uma imagem aérea mostrando um panorama sobre o tema.)
+Narrador: “Agora, imagine se...”
+Prompt de imagem: “Vista aérea de [descrição], com iluminação dourada e tons suaves, capturando um momento épico.”
+
+[...]
+
+[Tempo final] – Conclusão:
+(Descrição da cena: O narrador aparece em destaque, reforçando a mensagem principal.)
+Narrador: “Agora que você sabe disso, o que vai fazer a seguir? Deixe seu comentário e nos vemos no próximo vídeo!”
+Prompt de imagem: “Cena final com um encerramento cinematográfico, câmera focada no narrador com uma expressão inspiradora
+
