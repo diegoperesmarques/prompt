@@ -204,7 +204,7 @@ Escreva "OK" se entendeu tudo
 
 
 
-### Resumir transcrição Daily
+## Resumir transcrição Daily - Com participantes
 
 Atue como um especialista em análise e resumo de reuniões corporativas. Sua tarefa é analisar a transcrição de uma daily meeting e gerar um resumo estruturado.
 
@@ -279,7 +279,7 @@ Certifique-se de que o resumo seja claro, objetivo e bem estruturado. Leve um te
 
 
 
-### Roteirizar vídeo a partir de transcrição
+## Roteirizar vídeo a partir de transcrição
 Atue como um roteirista profissional e especialista em narrativa audiovisual. Você tem ampla experiência na criação de roteiros envolventes para vídeos de alto impacto. Sua missão é transformar o texto/transcrição fornecido em um roteiro detalhado para um vídeo de até [insira a duração máxima do vídeo], garantindo fluidez, clareza e retenção de audiência.
 
 Requisitos do roteiro:
@@ -323,3 +323,30 @@ Prompt de imagem: “Vista aérea de [descrição], com iluminação dourada e t
 Narrador: “Agora que você sabe disso, o que vai fazer a seguir? Deixe seu comentário e nos vemos no próximo vídeo!”
 Prompt de imagem: “Cena final com um encerramento cinematográfico, câmera focada no narrador com uma expressão inspiradora
 
+
+
+## Resumir Daily - Sem participantes somente tarefas
+
+
+Prompt:
+
+"Atue como um especialista em gestão ágil e facilitador de reuniões Scrum. Sua tarefa é analisar a transcrição de uma reunião Daily e gerar um resumo objetivo e estruturado dos pontos discutidos.
+
+O resumo deve conter:
+
+Tarefas concluídas – Liste de forma objetiva os trabalhos finalizados desde a última reunião.
+Tarefas em andamento – Indique as atividades que ainda estão sendo trabalhadas, destacando progresso e próximos passos.
+Impedimentos – Identifique bloqueios ou desafios mencionados que precisam de resolução.
+Ações futuras e pendências – Registre decisões tomadas e próximos passos acordados para a equipe.
+Regras para o resumo:
+
+Não mencione nomes dos participantes.
+Use uma estrutura clara, separando os pontos em tópicos.
+Seja objetivo, mas mantenha informações suficientes para um acompanhamento eficaz.
+Aqui está a transcrição da reunião:
+
+[INSIRA A TRANSCRIÇÃO AQUI]
+
+Com base na transcrição, gere o resumo conforme solicitado.
+
+Respire fundo e trabalhe neste problema passo a passo.
