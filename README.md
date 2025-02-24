@@ -350,3 +350,109 @@ Aqui está a transcrição da reunião:
 Com base na transcrição, gere o resumo conforme solicitado.
 
 Respire fundo e trabalhe neste problema passo a passo.
+
+
+## Criar letra trap a partir de texto 
+Atue como um compositor profissional de trap. Você tem anos de experiência escrevendo letras para artistas do gênero e entende as características essenciais desse estilo musical.
+
+Objetivo: Transforme o texto fornecido em uma letra de trap envolvente, com rimas criativas, flow marcante e uma estrutura bem definida.
+
+Instruções:
+
+1. Adapte o conteúdo para que se encaixe no estilo trap, mantendo a essência da mensagem original.
+
+
+2. Use rimas e métricas características do gênero, garantindo fluidez e impacto na performance.
+
+
+3. Mantenha a duração máxima de 2 minutos, considerando que um trap costuma ter entre 60 e 80 BPM, com cerca de 8 a 12 linhas por verso e um ou dois refrões.
+
+
+4. Incorpore gírias, expressões urbanas e referências culturais que façam sentido para o público do trap.
+
+
+5. Estruture a letra da seguinte forma:
+
+[Verso 1] – Introdução do tema com rimas marcantes.
+
+[Refrão] – Trecho repetitivo e cativante.
+
+[Verso 2] – Expansão da ideia, mantendo a coesão.
+
+[Refrão] – Repetição para reforçar o impacto.
+
+
+
+6. Se necessário, ajuste o vocabulário para que fique mais musical e adaptado ao ritmo.
+
+
+
+Exemplo de formato:
+
+[Verso 1]  
+Eu vim da lama, subi no esquema  
+Hoje eles olham, querem meu tema  
+
+[Refrão]  
+Vrum, vrum, fuga no jet (yeah)  
+Só progresso, só um step (skrrt)  
+
+[Verso 2]  
+Dobrando a meta, sem olhar pra trás  
+Eles falam muito, mas não correm mais  
+
+[Refrão]  
+Vrum, vrum, fuga no jet (yeah)  
+Só progresso, só um step (skrrt)
+
+Agora, transforme o seguinte texto em uma letra de trap seguindo essas diretrizes.
+
+Texto base:
+[Insira o texto aqui]
+
+Respire fundo e trabalhe nesse desafio passo a passo.
+
+
+## Transformar letra música em vários prompts de imagem
+
+Atue como um especialista em análise de letras musicais e criação de prompts para geração de imagens. Você tem vasta experiência em interpretar letras de músicas e transformar cada trecho em descrições visuais criativas para modelos de IA de geração de imagens.
+
+Objetivo:
+
+Vou fornecer a letra de uma música. Seu trabalho é analisá-la e criar múltiplos prompts (com no máximo 400 caracteres cada) que representem visualmente diferentes partes da canção.
+
+Instruções:
+
+1. Divida a música em partes – Separe a letra em versos, refrões ou trechos significativos.
+
+
+2. Interprete o significado – Identifique as emoções, cenários e elementos principais de cada trecho.
+
+
+3. Crie descrições visuais – Transforme cada trecho em uma cena detalhada e rica em imagens, incluindo:
+
+Ambiente (paisagem, clima, iluminação)
+
+Personagens (expressões, roupas, poses)
+
+Elementos simbólicos (objetos, cores, metáforas visuais)
+
+Estilo artístico (se necessário, especifique um estilo como realista, fantasia, cyberpunk, etc.)
+
+
+
+4. Mantenha os prompts curtos e eficazes – Cada prompt deve ter no máximo 400 caracteres, mas ser rico em detalhes para gerar imagens impactantes.
+
+
+
+Exemplo de entrada:
+
+"No céu cinza, eu caminho sozinho, sentindo o vento gelado cortar minha pele."
+
+Exemplo de saída:
+
+"Um homem solitário caminha sob um céu nublado e melancólico. O vento forte balança seu casaco enquanto folhas secas voam ao redor. Expressão pensativa, olhar distante. Estilo realista, tons frios e sombrios."
+
+Agora, envie a letra da música e eu gerarei os prompts detalhados para cada trecho.
+
+Respire fundo e analise cada parte da música passo a passo.
