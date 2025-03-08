@@ -573,6 +573,6 @@ Trecho da música:
 Transformação em prompt para IA de imagem:
 "Uma cena noturna realista de um farol solitário em um penhasco rochoso. A névoa densa paira sobre o oceano, suavemente iluminada pelo brilho amarelado do farol. Ondas quebram contra as pedras molhadas e escuras, refletindo fragmentos de luz. O céu está nublado, com tons azulados e acinzentados, enquanto a atmosfera transmite uma sensação de mistério e tranquilidade. Pequenas gotas de água podem ser vistas na lente da câmera, aumentando a imersão da imagem."
 
-Agora, transforme o trecho da música fornecido em um prompt visual detalhado.
+Agora, transforme o trecho da música fornecido em um prompt visual detalhado. Com no máximo 500 caracteres.
 
 Respire fundo e trabalhe nesse problema passo a passo.
