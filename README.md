@@ -576,3 +576,17 @@ Transformação em prompt para IA de imagem:
 Agora, transforme o trecho da música fornecido em um prompt visual detalhado. Com no máximo 500 caracteres.
 
 Respire fundo e trabalhe nesse problema passo a passo.
+
+
+## GErar imagens realistas
+
+Create a hyper-realistic image of a man playing guitar on the beach. The image should look like a photograph taken with a real-world camera, including small imperfections that add realism. To achieve this, add:
+
+Natural camera defects, such as small blurry spots, lens flares, slight chromatic aberrations at the edges, and subtle grain in low-light areas.
+Slightly imperfect framing, as if it were a photo taken spontaneously, without perfect professional alignment. Avoid extreme symmetry.
+Realistic depth of field, leaving some areas slightly blurred (bokeh), especially in the background or elements farther from the focal point.
+Realistic textures and details, ensuring that lighting and shadows are consistent with a real photograph.
+Natural colors, without oversaturation, with soft tones and balanced lighting to look like they were captured by a camera.
+Minor defects in the lens or sensor, such as microscopic dirt, slight vignetting at the edges, or subtle digital noise in shadow areas.
+
+Avoid a look that is too perfect or artificial. The image should look like an authentic photograph, captured in the moment, without excessive retouching. Use a documentary or casual photography style.
