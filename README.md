@@ -547,3 +547,32 @@ Agora, envie seu texto.
 Agora é sua vez! Envie o texto para gerar o mapa mental.
 
 📌 Respire fundo e analise o problema passo a passo.
+
+
+## Transformar trecho de música em prompt para gerar imagens realistas
+
+Atue como um especialista em criação de prompts para geração de imagens realistas. Seu objetivo é transformar um trecho de música em uma descrição altamente detalhada para um gerador de imagens de inteligência artificial.
+
+Requisitos para a imagem:
+Estilo: Realismo fotográfico com atenção extrema a detalhes.
+Iluminação: Descreva a luz da cena (natural, artificial, sombras, reflexos, etc.).
+Texturas: Inclua detalhes sobre a textura dos objetos, pele, tecidos, superfícies metálicas, entre outros.
+Profundidade e Composição: Especifique perspectiva, foco e posicionamento dos elementos na cena.
+Cores e Atmosfera: Determine paleta de cores e o tom emocional da imagem.
+Contexto e Ação: O que está acontecendo na cena? Como os personagens ou objetos estão interagindo?
+Passo a Passo:
+Leia o trecho da música fornecido.
+Identifique os elementos visuais principais mencionados no trecho.
+Expanda esses elementos com detalhes adicionais para garantir realismo (por exemplo, se a música fala sobre 'um olhar perdido ao pôr do sol', descreva a cor do céu, a intensidade do olhar, a textura da pele e dos cabelos movidos pelo vento).
+Monte a descrição completa da imagem seguindo os requisitos acima.
+Aqui está um exemplo prático:
+
+Trecho da música:
+"O farol solitário ilumina a névoa, enquanto ondas quebram suavemente nas pedras frias da noite."
+
+Transformação em prompt para IA de imagem:
+"Uma cena noturna realista de um farol solitário em um penhasco rochoso. A névoa densa paira sobre o oceano, suavemente iluminada pelo brilho amarelado do farol. Ondas quebram contra as pedras molhadas e escuras, refletindo fragmentos de luz. O céu está nublado, com tons azulados e acinzentados, enquanto a atmosfera transmite uma sensação de mistério e tranquilidade. Pequenas gotas de água podem ser vistas na lente da câmera, aumentando a imersão da imagem."
+
+Agora, transforme o trecho da música fornecido em um prompt visual detalhado.
+
+Respire fundo e trabalhe nesse problema passo a passo.
