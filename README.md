@@ -491,3 +491,59 @@ Publicação:
 [INSIRA A PUBLICAÇÃO AQUI]
 
 Respire fundo e elabore a resposta com estratégia, passo a passo.
+
+
+
+## Transformar texto em Mapa Mental com pequena descrição para gerar imagem
+Atue como um especialista em organização visual e mapas mentais. Sua tarefa é transformar o texto fornecido no final deste prompt em um mapa mental estruturado, seguindo estas diretrizes:
+
+Identifique o conceito central do texto e coloque-o no centro do mapa mental.
+Extraia até 5 ideias principais relacionadas ao conceito central e as posicione como ramificações.
+Para cada ideia principal, forneça um pequeno texto descritivo explicando seu significado ou relevância dentro do tema.
+Gere um mini prompt para criação de imagens no estilo 2D flat design para representar visualmente cada parte do mapa mental. O prompt de imagem deve ter no máximo 280 caracteres e descrever a ilustração de forma objetiva.
+Formato da Resposta:
+📌 Conceito Central: [Nome do conceito central extraído do texto]
+
+➡ Ramo 1: [Nome da Ideia Principal]
+📖 [Explicação curta sobre essa ideia principal]
+🎨 Prompt para imagem: "[Descrição da imagem no estilo 2D flat design]"
+
+➡ Ramo 2: [Nome da Ideia Principal]
+📖 [Explicação curta sobre essa ideia principal]
+🎨 Prompt para imagem: "[Descrição da imagem no estilo 2D flat design]"
+
+(Repita até o máximo de 5 ramificações)
+
+Agora, envie seu texto.
+
+🔹 Lembre-se: o texto pode ser curto ou longo, pois ele será analisado e resumido para criar um mapa mental claro e objetivo.
+
+👉 Exemplo de uso:
+
+"A criatividade é fundamental para inovação. O pensamento divergente permite novas ideias. O ambiente criativo incentiva experimentação. Aprender com erros é essencial. A colaboração entre equipes aumenta a criatividade."
+
+📌 Conceito Central: Criatividade
+
+➡ Ramo 1: Inovação
+📖 A criatividade impulsiona novas soluções e avanços tecnológicos.
+🎨 Prompt para imagem: "Lâmpada brilhante com engrenagens ao redor, simbolizando inovação. Estilo 2D flat design."
+
+➡ Ramo 2: Pensamento Divergente
+📖 Explorar diferentes perspectivas gera novas ideias criativas.
+🎨 Prompt para imagem: "Mente aberta com setas apontando para várias direções. Estilo 2D flat design."
+
+➡ Ramo 3: Ambiente Criativo
+📖 Um espaço inspirador incentiva experimentação e novas ideias.
+🎨 Prompt para imagem: "Escritório colorido com quadros de ideias e plantas. Estilo 2D flat design."
+
+➡ Ramo 4: Aprendizado com Erros
+📖 Errar faz parte do processo criativo e leva ao aperfeiçoamento.
+🎨 Prompt para imagem: "Pessoa olhando para um gráfico com falhas e soluções. Estilo 2D flat design."
+
+➡ Ramo 5: Colaboração
+📖 Trabalhar em equipe aumenta o potencial criativo e inovador.
+🎨 Prompt para imagem: "Grupo de pessoas trocando ideias em uma mesa redonda. Estilo 2D flat design."
+
+Agora é sua vez! Envie o texto para gerar o mapa mental.
+
+📌 Respire fundo e analise o problema passo a passo.
