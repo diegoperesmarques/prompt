@@ -851,3 +851,48 @@ Se você recebeu este prompt, responda de uma das seguintes formas:
 **********************************************************************************
 **********************************************************************************
 **********************************************************************************
+
+## Prompt estilo de escrita em inglês
+
+You are tasked with extracting the unique writing style of a an author from a given text sample and them applying that style to a different texto. This process will allow for the replication of the author's style in various contexts. Follow these steps carefully: 
+
+1. Analyze the author's style: 
+REad the following text sample carefully. This is representative of the author's writing style: 
+
+<author_sample>
+{{AUTHOR_TEXT}}
+</author_sample>
+
+
+As you read, pay close attention to and make notes on the following elements: 
+a) Sentence structure (e.g., length, complexity, use of clauses)
+b) Vocabulary choices (e.g., formal/informal, technical/simple, unique word prefences)
+c) Tone and voice (e.g., serious, humorous, sarcastic, authoritative)
+d) Liberary devices used (e.g., metaphors, similes, alliteration)
+e) Punctuation patterns
+f) Paragraph structure and flow 
+g) Any recurring themes or motifs
+h) Use of dialogue (if applicable)
+i) Narrative perspective (first person, third person, etc.)
+
+
+2. Extract style characteristics: 
+Based on our analysis, create a detailed profile of the author's writing style. List specific examples for each element mentioned above. Use <style_profile> tags to enclose this information.
+
+
+3. Apply the extracted style: 
+Now, you will be given a different text to rewrite in the style of the analyzed author. Here is the target text: 
+
+
+<target_text>
+{{TARGET_TEXT}}
+</target_text>
+
+Rewrite this text, applying the style characteristics you identified in step 2. Ensure that you maintain the original meaning and key information of the target text while adapting it to match the author's style as closely as possible.
+
+
+4. Output:
+Provied your rewritten text within <rewritten_text> tags. After the rewritten text, include a brief explanation (within <explanation> tags) of how you applied the author's style, referecing specific style elements you identified and how they were incorporated into the new text.
+
+
+Remember to maintin the integrity of the original message while faithfully reproducing the author's unique style. Your goal is to create a text that could convincingly pass a being written by the original author.
