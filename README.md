@@ -896,3 +896,45 @@ Provied your rewritten text within <rewritten_text> tags. After the rewritten te
 
 
 Remember to maintin the integrity of the original message while faithfully reproducing the author's unique style. Your goal is to create a text that could convincingly pass a being written by the original author.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**********************************************************************************
+**********************************************************************************
+**********************************************************************************
+**********************************************************************************
+
+
+
+
+## Biblioteca de prompt para LLM
+
+
+https://hero.page/discover
+
+https://snackprompt.com/prompts
+
+https://platform.openai.com/docs/examples
+
+https://docs.anthropic.com/en/prompt-library/library
+
+https://prompthero.com/
+
+https://github.com/pacholoamit/chatgpt-prompts
+
+https://console.cloud.google.com/vertex-ai/studio/prompt-gallery?project=new-slate-websit-1553874306995&pli=1
