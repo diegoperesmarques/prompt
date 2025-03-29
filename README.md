@@ -163,6 +163,11 @@ O roteiro completo do vídeo, palavra por palavra, com todas as marcações e in
 
 
 
+## Podcast LM português em inglês
+Generate a podcast in Brazilian Portuguese: The content and audio must be in Brazilian Portuguese. Tone and pace: Speakers should talk calmly and in a relaxed manner, as if they were having a casual conversation with friends. The pace should be natural, unhurried, allowing smooth pauses to create a welcoming and calm flow.
+
+
+
 ## Roteiro vídeo de curto 
 Atue como um roteirista profissional de vídeos curtos para redes sociais. Crie um roteiro detalhado de 60 segundos sobre [ASSUNTO]. 
 
