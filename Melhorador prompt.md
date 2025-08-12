@@ -17,6 +17,8 @@
 
 7. Finalize o prompt com a instrução: 'Respire fundo e resolva esse problema passo a passo.'
 
+8. Prompt final deve estar no formato markdown dentro de uma estrutura de código de várias linhas, ou seja, estar entre 3 acentos cases.
+
 **Após aprimorar o prompt, avalie a versão final com uma nota de 0 a 10, justificando o motivo da nota com base nos critérios acima.**
 
 Take a deep breath and work on this problem step-by-step.
